@@ -35,10 +35,10 @@
     <string name="calendar_astronomical_twilight_summary" />
 
     <string name="configLabel_calendars_enabled">Integração com Calendário</string>
-    <string name="configLabel_calendars_enabled_summary">Transferir eventos ao app de Calendário nativo do aparelho.</string>
+    <string name="configLabel_calendars_enabled_summary">Transferir eventos para o app de Calendário nativo do aparelho.</string>
 
     <string name="configLabel_calendars_window0">Janela (início)</string>
-    <string name="configLabel_calendars_window0_summary">Período começando há <xliff:g id="calendars_window_display" example="one year">%s</xliff:g></string>
+    <string name="configLabel_calendars_window0_summary">Período começando em <xliff:g id="calendars_window_display" example="one year">%s</xliff:g></string>
 
     <string name="configLabel_calendars_window1">Janela (fim)</string>
     <string name="configLabel_calendars_window1_summary">Período terminando em <xliff:g id="calendars_window_display" example="two years">%s</xliff:g></string>
@@ -114,7 +114,7 @@
         French translation by Jej & Aloha. <br />
         Hungarian translation by Erci. <br />
         Spanish and Catalan translation by <a href=https://github.com/Raulvo>Raulvo</a>. <br />
-		Brazilian Portuguese translation by <a href=https://github.com/NetoSilva15>Neto Silva</a>. <br />
+        Brazilian Portuguese translation by <a href=https://github.com/NetoSilva15>Neto Silva</a>. <br />
         Basque translation by beriain. <br />
         Norwegian translation by FTno. <br />
         Italian translation by Matteo Caoduro. <br />
